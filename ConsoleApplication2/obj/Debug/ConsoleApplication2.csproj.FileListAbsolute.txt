@@ -1,0 +1,12 @@
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Hammock.ClientProfile.dll
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\TweetSharp.dll
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Hammock.ClientProfile.pdb
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\bin\Debug\TweetSharp.pdb
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\8_semestr\эпи\6_2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
